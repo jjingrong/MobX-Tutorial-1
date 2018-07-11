@@ -1,6 +1,9 @@
 # MobX-Tutorial-1
 
-This simple repository is made in relation to a blog post by Rate Engineering at https://medium.com/rate-engineering/
+This simple repository is made in relation to a blog post by Rate Engineering
+
+### Related Blog Post
+https://medium.com/rate-engineering/how-we-use-mobx-at-rate-part-i-29924823e83d
 
 ### What does it cover
 
